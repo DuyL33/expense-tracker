@@ -1,0 +1,9 @@
+﻿target/
+node_modules/
+.venv/
+.vscode/
+.idea/
+.DS_Store
+.env
+.env.*
+*.log
